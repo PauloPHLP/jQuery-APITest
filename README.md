@@ -1,6 +1,23 @@
-# jQuery - API Test Project
-An app to test PokeAPI made with jQuery.
+# 🖥️ API Test
 
-This project was made during the "The Complete jQuery Course: From Begginer To Advanced!" course on Udemy.
+<h1 align="center">
+  <img src=".github/logo.png" width="200px" />
+</h1>
 
-In this project I've used HTML, CSS, JavaScript and jQuery.
+## 🔎️ Description
+An application to test the basics of Angular.
+
+This project was made during the <a href="https://www.udemy.com/course/jquery-tutorial/">The Complete jQuery Course: From Begginer To Advanced!</a> course on Udemy.
+
+## 🚀️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- jQuery
+ 
+---
+
+Thank you and good coding 😎️
+
+Made by **<a href="https://paulophlp.github.io/portfolio/" target="__blank">Paulo Lima 🤓️</a>**
